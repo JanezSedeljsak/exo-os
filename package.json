@@ -23,7 +23,7 @@
     "gsap": "^2.1.2",
     "html-to-image": "^0.1.0",
     "jquery": "^3.3.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-gyp": "^3.8.0",
     "node-powershell": "^4.0.0",
     "sine-waves": "^0.3.0",
